@@ -1,0 +1,30 @@
+_repo: Great-Ralegh_37080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Sélincourt, Hugh
+    aliases:
+    - De Selincourt, Hugh
+    - Sélincourt, Hugh de
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '38632'
+    url: http://www.gutenberg.org/2009/agents/38632
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37080'
+  lccn: 08034204
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Raleigh, Walter, Sir, 1552?-1618'
+- !lcc 'DA'
+title: Great Ralegh
+url: http://www.gutenberg.org/ebooks/37080
